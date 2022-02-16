@@ -4,7 +4,7 @@
 
 ## UI
 
-[Metamalls Token Vesting UI](https://vesting.bonfida.com)
+[Metamall Token Vesting UI]
 
 ## Goal
 
